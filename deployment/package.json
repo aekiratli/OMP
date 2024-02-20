@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@charged-particles/erc721i": "^0.1.5",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "4.7.0",
+    "erc721a": "^4.2.3",
+    "hardhat": "^2.20.1"
+  },
+  "dependencies": {
+    "hardhat-ethernal": "^3.2.5"
+  }
+}
